@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+        "pivotal.vscode-boot-dev-pack",
+        "vscjava.vscode-spring-initializr",
+        "vscjava.vscode-spring-boot-dashboard",
+        "pivotal.vscode-boot-dev-pack",
+        "gabrielbb.vscode-lombok"
+	],
+}
